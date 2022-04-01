@@ -1,0 +1,327 @@
+.aa{
+    background-color: #ffffff;
+}
+.bg-light{
+    background-color: #ffffff;
+}
+#navbarNavDropdown{
+    margin-top: 5px;
+    margin-bottom: -20px;
+}
+.b{
+    border-radius: 10px;
+    position: relative;
+    top:-7px;
+    background-color: black; 
+    left: -47px;
+    font-size: 25px; 
+    color: aliceblue;
+}
+.bb{
+    border-radius: 10px;
+    position: relative;
+    background-color: black; 
+    align-items: center;
+    font-size: 25px; 
+    color: aliceblue;
+}
+a.nav-link{
+    color: rgb(7, 7, 7);
+    font-size: 18px;
+}
+.navbar-brand img{
+    height: 50px;
+}
+.VideoPPart {
+    line-height: 1.3;
+    letter-spacing: 0.01em;
+    margin: 0px auto 40px;
+    max-width: 500px;
+}
+.thrdpart{
+    padding-top: 7rem;
+}
+.figma-xpqnvj {
+    display: block;
+    height: auto;
+    max-width: 140%;
+    margin-right: 96px;
+    margin-left: -39.2083%;
+    top: 15px;
+}
+.fourpart{
+    border: 2px solid black;
+    border-radius: 15px;
+    height: 50%;
+    width: 95%;
+    margin: 40px auto;
+}
+.smbl{
+    font-size: 19px;
+}
+.smbl2{
+    padding: 20px;
+}
+.txt{
+    margin: 0px;
+}
+.figma-2l8vj1{
+    position: relative;
+    top: 25px;
+    color: rgb(14, 13, 13);
+    border: 1px solid black;
+    align-items: center;
+    border-radius:50% ; 
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    align-items: center;
+}
+.figma-2l8vj1:hover{
+    background-color: rgb(8, 8, 8);
+    color: rgb(253, 253, 253);
+}
+.rounded{
+    padding-left: 20px;
+    padding-top: 3px;
+}
+.rounded img    {
+    border-radius: 50% ;
+    border: 5px solid rgb(223, 42, 223);
+    height: 60px;
+}
+.brainbtn button{
+    border-radius: 10px;
+}
+.review{
+    top: 35px;
+    position: relative;
+}
+.review1{
+    border: 1px solid black;
+    height: 30%;
+    width: 92%;
+    top: 140px;
+    position: relative;
+}
+.review2{
+    border: 1px solid black;
+    height: 40%;
+    width: 94%;
+    top: 120px;
+    position: relative;
+}
+.review3{
+    border: 1px solid black;
+    height: 35%;
+    width: 105%;
+    top: 120px;
+    position: relative;
+}
+.desingprt{
+    top: 120px;
+    position: relative;
+}
+.bldbtn{
+    top: 120px;
+    position: relative;
+}
+.review4{
+    border: 1px solid black;
+    height: 39%;
+    width: 100%;
+    top: 120px;
+    position: relative;
+}
+.ninthpart{
+    position: relative;
+    top: 150px;
+    background-color: rgb(245, 202, 86);
+}
+.movepart1 span{
+    color: orange;
+}
+.movepart1{
+    position: relative;
+    top: 5px;
+}
+.tenthpart{
+    position: relative;
+    top: 150px;
+    background-color: black;
+    color: azure;
+    padding-top: 70px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 22px;
+}
+.elevnpart{
+    background-color: black;
+    position: relative;
+    top: 150px;
+    padding: 75px;
+}
+ h5{
+    color: yellow;
+}
+ h2{
+    color: rgb(243, 187, 187);
+}
+.card{
+    border: 2px solid black;
+    background-color: black;
+}
+.card img{
+    border-radius: 10px;
+}
+.im img{
+    border-radius: 50px;
+}
+.card-img-top{
+    height: 15rem;
+    
+}
+.card-body{
+    background-color: black;
+    color: white;
+
+}
+.left{
+    gap: 20px;
+}
+p{
+    margin-top: 10px;
+    margin-bottom: 1rem;
+}
+.twlvpart{
+    position: relative;
+    top: 65px;
+    background-color: black;
+    align-items: center;
+    padding: 80px;
+    color: white;
+}
+.dli{
+    padding: 35px;
+}
+.dl{
+    gap: 0%;
+}
+.dl img{
+    border-radius: 18px;
+    width: 70px;
+    height: 70px;
+}
+.dlp{
+    padding: 25px;
+    width: 100%;
+    margin-left: -32px;
+}
+.thirtnpart{
+    position: relative;
+    top: -30px;
+    background-color: black;
+    padding: 74px;
+}
+.fourtn{
+    background-color: black;
+    position: relative;
+    top: -30px;
+}
+.btn{
+    margin-left: 42%;
+    margin-bottom: 10%;
+}
+.fourtnimg{
+    height: 100%;
+    width: 100%;
+    padding-top: 5%;
+    background-color: rgb(178, 188, 233);
+
+}
+
+  .wrapper{
+    min-height:100vh;
+    background-color:white;
+    font-family: 'Open Sans', sans-serif;
+    padding-top:40px;
+  }
+  .wrapper h1{
+    margin-left: 37%;
+  }
+  .containerfif{
+    max-width:400px;
+    margin:0 auto;
+    background-color:white;
+    text-align:center;
+    padding:50px 0;
+    border-radius:3px;
+  }
+
+
+  .social-login{
+    display:block;
+    width:50%;
+    margin: 5px auto;
+    text-decoration:none;
+    padding:10px 15px;
+    color:rgb(7, 6, 6);
+    border-radius:3px;
+    margin-bottom:10px;
+  }
+
+  a.google-login{
+    background-color:white;
+    border: 3px solid black;
+  }
+  form{
+    max-width:250px;
+    margin:0 auto;
+    text-align:left;
+  }
+  
+  p.seperator{
+    margin:25px;
+  }
+  div.group{
+    margin-top:15px;
+  }
+  label{
+    display:block;
+    margin-bottom:5px;
+    text
+    
+  }
+
+  div.group input{
+    width:100%;
+    padding:10px 4px;
+    border-radius:3px;
+    border: 3px solid black;
+  }
+  a.forget-link{
+    color:black;
+    position: relative;
+    margin-left:-35%;
+    padding-left: 50%;
+  }
+  
+  input[type="submit"]{
+    padding:15px 35px;
+    outline:none;
+    border:None;
+    background-color:#080808;
+    color:white;
+    transition:all .3s ease-in-out;
+  }
+  input[type="submit"]:hover{
+    cursor:pointer;
+    box-shadow:0 10px 15px -5px rgba(0,0,0,0.4);
+  }
+
+  ul a{
+      color: black;
+  }
+
+
